@@ -1,0 +1,148 @@
+{
+  "cities": [
+    {
+      "cityName": "Neon Karlovasion",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2015-09-24T21:00:00.000Z",
+      "notes": "Student days",
+      "position": {
+        "lat": "37.79936149110376",
+        "lng": "26.715660095214844"
+      },
+      "id": "1"
+    },
+    {
+      "id": "1423",
+      "cityName": "Arganda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-01T21:07:24.456Z",
+      "notes": "",
+      "position": {
+        "lat": "40.26276066437183",
+        "lng": "-3.4277343750000004"
+      }
+    },
+    {
+      "id": "35e8",
+      "cityName": "Jaca",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-01T21:07:28.390Z",
+      "notes": "",
+      "position": {
+        "lat": "42.47209690919285",
+        "lng": "-0.6152343750000001"
+      }
+    },
+    {
+      "id": "afa4",
+      "cityName": "La Bazoche-Gouet",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-05-01T21:07:30.790Z",
+      "notes": "",
+      "position": {
+        "lat": "48.151428143221224",
+        "lng": "0.9887695312500001"
+      }
+    },
+    {
+      "id": "1fb5",
+      "cityName": "Srebrenica",
+      "country": "Bosnia and Herzegovina",
+      "emoji": "🇧🇦",
+      "date": "2025-05-01T21:07:33.890Z",
+      "notes": "",
+      "position": {
+        "lat": "44.11914151643737",
+        "lng": "19.357910156250004"
+      }
+    },
+    {
+      "id": "c7ca",
+      "cityName": "Amfissa",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2025-05-01T21:07:36.016Z",
+      "notes": "",
+      "position": {
+        "lat": "38.77121637244273",
+        "lng": "22.280273437500004"
+      }
+    },
+    {
+      "id": "9f24",
+      "cityName": "Floriana",
+      "country": "Malta",
+      "emoji": "🇲🇹",
+      "date": "2025-05-01T21:07:44.578Z",
+      "notes": "",
+      "position": {
+        "lat": "35.89217913973108",
+        "lng": "14.501438140869142"
+      }
+    },
+    {
+      "id": "88a4",
+      "cityName": "Lampedusa e Linosa",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2025-05-01T21:08:03.396Z",
+      "notes": "",
+      "position": {
+        "lat": "35.506168675136436",
+        "lng": "12.612648010253906"
+      }
+    },
+    {
+      "id": "8715",
+      "cityName": "Shibchar",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2025-05-01T21:08:42.381Z",
+      "notes": "",
+      "position": {
+        "lat": "23.453168015916194",
+        "lng": "90.21972656250001"
+      }
+    },
+    {
+      "id": "c072",
+      "cityName": "Hulu Terengganu",
+      "country": "Malaysia",
+      "emoji": "🇲🇾",
+      "date": "2025-05-01T21:08:55.363Z",
+      "notes": "",
+      "position": {
+        "lat": "4.954142405015753",
+        "lng": "102.67272949218751"
+      }
+    },
+    {
+      "id": "cf44",
+      "cityName": "Tianshui",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2025-05-01T21:09:31.374Z",
+      "notes": "",
+      "position": {
+        "lat": "34.59704151614417",
+        "lng": "105.64453125000001"
+      }
+    },
+    {
+      "id": "8994",
+      "cityName": "Ufa",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-05-01T21:10:07.295Z",
+      "notes": "",
+      "position": {
+        "lat": "54.73413609763888",
+        "lng": "56.05224609375001"
+      }
+    }
+  ]
+}
